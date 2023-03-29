@@ -79,23 +79,22 @@ def get_card_info(driver, card_link, card_data):
         color_input = color.find_element(By.NAME, "pdp-colorpicker")
         color_article = color_input.get_attribute('data-style-color')
         is_sold_out = color_input.get_attribute('data-nr-sold-out')
-        # print(article)
         articles.append({"article": color_article, "is_sold_out": is_sold_out == 'true'})
     right_slash_index = card_link.rfind('/')
     base_link = card_link[:(right_slash_index + 1)]
     if len(colors) == 0:
-        alone_article = card_link[(right_slash_index + 1):]
+        alone_article = card_link[(right_slash_index + 1):].strip('\n')
         articles.append({"article": alone_article, "is_sold_out": False})
     for article in articles:
         driver.get(base_link + article["article"])
         data["article"] = article["article"]
         # print(article)
         get_card_color_info(driver, data, article["is_sold_out"])
-        card_data[f"{article['article']}"] = dict(data)
+        card_data[article['article']] = dict(data)
 
 
 def write_to_file(card_data):
-    with open("output.txt", 'a') as card_links:
+    with open("output.txt", 'a',  encoding='utf-8') as card_links:
         for data in card_data:
             card_links.write(str(card_data[data])+'\n')
 
@@ -110,7 +109,7 @@ chrome_options.add_experimental_option("useAutomationExtension", False)
 # chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(options=chrome_options)
 cookie_allow(driver)
-with open("links.txt", 'r') as card_links:
+with open("links.txt", 'r',  encoding='utf-8') as card_links:
     for card_link in card_links:
         print(card_link)
         card_data = {}

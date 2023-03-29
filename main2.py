@@ -53,7 +53,7 @@ for link in links:
         last_height = new_height
     cards = driver.find_elements(By.CLASS_NAME, "product-card__img-link-overlay")
     print(len(cards))
-    f = open("links.txt", 'a')
+    f = open("links.txt", 'a', encoding='utf-8')
     for card in cards:
-        f.write(card.get_attribute('href')+'\n')
+        f.write(card.get_attribute('href') + '\n')
         print(card.get_attribute('href'))
