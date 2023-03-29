@@ -14,7 +14,10 @@ def get_product_row(card_data, last_row):
     data_row.append(card_data["model_main_name"])
     photo_string = link_array_to_string(card_data["photos"])
     data_row.append(photo_string)
-    data_row.append("")
+    if not len(card_data['size']):
+        data_row.append(card_data['article'])
+    else:
+        data_row.append("")
     data_row.append(card_data["price"])
     data_row.append("доллар")
     data_row.append("")
@@ -104,17 +107,29 @@ def get_card_color_info(driver, data, is_sold_out):
     data["price"] = price
 
     if not is_sold_out and not is_coming_soon(driver):
-        sizes_block = driver.find_element(By.CSS_SELECTOR, ".mt5-sm.mb3-sm.body-2")
-        active_sizes_inputs = sizes_block.find_elements(By.CSS_SELECTOR, "input:not([disabled])")
-        sizes = []
-        for input in active_sizes_inputs:
-            input_id = input.get_attribute('id')
-            size = sizes_block.find_element(By.CSS_SELECTOR, f"label[for='{input_id}']").text
-            sizes.append(size)
-            # (size)
-        if not len(sizes):
-            raise Exception("Размеры не спарсились")
-        data["size"] = sizes
+        try:
+            sizes_block = driver.find_element(By.CSS_SELECTOR, ".mt5-sm.mb3-sm.body-2")
+            active_sizes_inputs = sizes_block.find_elements(By.CSS_SELECTOR, "input:not([disabled])")
+            sizes = []
+            for input in active_sizes_inputs:
+                input_id = input.get_attribute('id')
+                size = sizes_block.find_element(By.CSS_SELECTOR, f"label[for='{input_id}']").text
+                sizes.append(size)
+                # (size)
+            if not len(sizes):
+                raise Exception("Размеры не спарсились")
+            data["size"] = sizes
+        except Exception as e:
+            if "Размеры не спарсились" in e:
+                f = open("bags.txt", 'a')
+                f.write("\n\nНачало бага\n")
+                f.write(f"Размеры не спарсились почему-то, проверь артикул   {data['article']}")
+                f.write(f"exception {e}")
+                f.write(f"\n\n")
+                f.close()
+
+    else:
+        data["size"] = []
 
 
 def is_coming_soon(driver):
@@ -175,7 +190,17 @@ with open("links.txt", 'r', encoding='utf-8') as card_links:
     for card_link in card_links:
         print(card_link)
         card_data = {}
-        get_card_info(driver, card_link, card_data)
+        try:
+            get_card_info(driver, card_link, card_data)
+        except Exception as e:
+            f = open("bags.txt", 'a')
+            f.write("\n\nНачало бага\n")
+            f.write(f"link:   {card_link}")
+            f.write(f"exception {e}")
+            f.write(f"\n\n")
+            f.close()
+
+
         print(card_data)
         write_to_file(card_data)
 

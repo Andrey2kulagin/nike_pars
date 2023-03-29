@@ -1,0 +1,100 @@
+
+
+Начало бага
+link:   https://www.nike.com/t/air-jordan-6-retro-shoes-9VsdCQ/CT8529-141https://www.nike.com/t/air-jordan-2-retro-low-mens-shoes-LVlsNr/DV9956-118
+exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".css-1rayx7p"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A0DCE3]
+	(No symbol) [0x009A39D1]
+	(No symbol) [0x008B4DA8]
+	(No symbol) [0x008E019F]
+	(No symbol) [0x008E03AB]
+	(No symbol) [0x008D87D1]
+	(No symbol) [0x008FAF14]
+	(No symbol) [0x008D8726]
+	(No symbol) [0x008FB224]
+	(No symbol) [0x0090D57C]
+	(No symbol) [0x008FACC6]
+	(No symbol) [0x008D6F68]
+	(No symbol) [0x008D80CD]
+	GetHandleVerifier [0x00C83832+2506274]
+	GetHandleVerifier [0x00CB9794+2727300]
+	GetHandleVerifier [0x00CBE36C+2746716]
+	GetHandleVerifier [0x00AB6690+617600]
+	(No symbol) [0x009AC712]
+	(No symbol) [0x009B1FF8]
+	(No symbol) [0x009B20DB]
+	(No symbol) [0x009BC63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/digital-gift-card-emailed-in-approximately-2-hours-B9Mv2K/GIFTCARD-D7266
+exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".product-price"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A0DCE3]
+	(No symbol) [0x009A39D1]
+	(No symbol) [0x008B4DA8]
+	(No symbol) [0x008E019F]
+	(No symbol) [0x008E03AB]
+	(No symbol) [0x008D87D1]
+	(No symbol) [0x008FAF14]
+	(No symbol) [0x008D8726]
+	(No symbol) [0x008FB224]
+	(No symbol) [0x0090D57C]
+	(No symbol) [0x008FACC6]
+	(No symbol) [0x008D6F68]
+	(No symbol) [0x008D80CD]
+	GetHandleVerifier [0x00C83832+2506274]
+	GetHandleVerifier [0x00CB9794+2727300]
+	GetHandleVerifier [0x00CBE36C+2746716]
+	GetHandleVerifier [0x00AB6690+617600]
+	(No symbol) [0x009AC712]
+	(No symbol) [0x009B1FF8]
+	(No symbol) [0x009B20DB]
+	(No symbol) [0x009BC63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/gift-card-RpyEVO/GIFTCARD-7434
+exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".headline-5.pb1-sm.d-sm-ib"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x00A0DCE3]
+	(No symbol) [0x009A39D1]
+	(No symbol) [0x008B4DA8]
+	(No symbol) [0x008E019F]
+	(No symbol) [0x008E03AB]
+	(No symbol) [0x0090EE62]
+	(No symbol) [0x008FAF14]
+	(No symbol) [0x0090D57C]
+	(No symbol) [0x008FACC6]
+	(No symbol) [0x008D6F68]
+	(No symbol) [0x008D80CD]
+	GetHandleVerifier [0x00C83832+2506274]
+	GetHandleVerifier [0x00CB9794+2727300]
+	GetHandleVerifier [0x00CBE36C+2746716]
+	GetHandleVerifier [0x00AB6690+617600]
+	(No symbol) [0x009AC712]
+	(No symbol) [0x009B1FF8]
+	(No symbol) [0x009B20DB]
+	(No symbol) [0x009BC63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
