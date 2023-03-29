@@ -2,6 +2,75 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+import openpyxl
+
+
+def get_product_row(card_data, last_row):
+    data_row = []
+    data_row.append(card_data['model_sub_name'])
+    data_row.append("Товар")
+    product_number = str(last_row)
+    data_row.append(product_number)
+    data_row.append(card_data["model_main_name"])
+    photo_string = link_array_to_string(card_data["photos"])
+    data_row.append(photo_string)
+    data_row.append("")
+    data_row.append(card_data["price"])
+    data_row.append("доллар")
+    data_row.append("")
+    data_row.append("")
+    return data_row
+
+
+def link_array_to_string(link_array):
+    link_str = ""
+    for link in link_array:
+        link_str += (link + ' ; ')
+    return link_str
+
+
+def write_excel_row(data_row, last_row, worksheet):
+    for col_idx, cell_value in enumerate(data_row, start=1):
+        worksheet.cell(row=last_row + 1, column=col_idx, value=cell_value)
+
+
+def get_size_color_row(size, last_row, main_product_num, article, photos):
+    data_row = [""]
+    data_row.append("Модификация")
+    data_row.append(str(last_row))
+    data_row.append("")
+    photo_string = link_array_to_string(photos)
+    data_row.append(photo_string)
+    data_row.append(article)
+    data_row.append("")
+    data_row.append("")
+    data_row.append(str(main_product_num))
+    data_row.append(size)
+    return data_row
+
+
+def write_to_file(cards_data):
+    workbook = openpyxl.load_workbook('cards_data.xlsx')
+    worksheet = workbook.active
+    last_row = worksheet.max_row
+    main_product_num = None
+    is_product_add = False
+    for card_data in cards_data:
+        if not is_product_add:
+            data_row = get_product_row(cards_data[card_data], last_row)
+            write_excel_row(data_row, last_row, worksheet)
+            main_product_num = last_row
+            last_row += 1
+            is_product_add = True
+        if len(cards_data[card_data]["size"]):
+            # обработка всех размеров и их запись
+            for size in cards_data[card_data]["size"]:
+                data_row = get_size_color_row(size, last_row, main_product_num, cards_data[card_data]["article"],
+                                              cards_data[card_data]["photos"])
+                write_excel_row(data_row, last_row, worksheet)
+                last_row += 1
+        # Сохраняем файл
+    workbook.save('cards_data.xlsx')
 
 
 def get_card_color_info(driver, data, is_sold_out):
@@ -31,7 +100,7 @@ def get_card_color_info(driver, data, is_sold_out):
     data["model_sub_name"] = model_sub_name
     # print(model_sub_name)
     price = model_sub_name_block.find_element(By.CSS_SELECTOR,
-                                              ".product-price").text
+                                              ".product-price").text[1:]
     data["price"] = price
 
     if not is_sold_out and not is_coming_soon(driver):
@@ -93,13 +162,6 @@ def get_card_info(driver, card_link, card_data):
         card_data[article['article']] = dict(data)
 
 
-def write_to_file(card_data):
-    with open("output.txt", 'a',  encoding='utf-8') as card_links:
-        for data in card_data:
-            card_links.write(str(card_data[data])+'\n')
-
-
-
 # Словарь с данными по карточке
 data = {}
 chrome_options = Options()
@@ -109,7 +171,7 @@ chrome_options.add_experimental_option("useAutomationExtension", False)
 # chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(options=chrome_options)
 cookie_allow(driver)
-with open("links.txt", 'r',  encoding='utf-8') as card_links:
+with open("links.txt", 'r', encoding='utf-8') as card_links:
     for card_link in card_links:
         print(card_link)
         card_data = {}
@@ -118,4 +180,3 @@ with open("links.txt", 'r',  encoding='utf-8') as card_links:
         write_to_file(card_data)
 
 driver.quit()
-
