@@ -19,24 +19,13 @@ def cookie_allow(driver):
             driver.refresh()
 
 
-chrome_options = Options()
-# неробот
-chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-chrome_options.add_experimental_option("useAutomationExtension", False)
-# chrome_options.add_argument("--headless")
-driver = webdriver.Chrome(options=chrome_options)
-cookie_allow(driver)
-links = [
-    "https://www.nike.com/w/mens-jordan-shoes-37eefznik1zy7ok"
-]
-for link in links:
+def do_pars(driver, link):
     print(link)
     driver.get(link)
     driver.set_window_size(1920, 1080)
 
     last_height = driver.execute_script("return document.body.scrollHeight")
     # Проматывание страницы до самого конца
-    cards = 0
     while True:
         # Cкроллим до конца страницы
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -47,7 +36,7 @@ for link in links:
         # Вычисляем высоту страницы после скролла
         cards = driver.find_elements(By.CLASS_NAME, "product-card__img-link-overlay")
         new_height = driver.execute_script("return document.body.scrollHeight")
-        count = driver.find_element(By.XPATH, "//*[@id='Mens-Jordan-Shoes']/span").text
+        count = driver.find_element(By.CSS_SELECTOR, ".wall-header__item_count").text
         if len(cards) == int(count.strip('()')):
             break
         last_height = new_height
@@ -57,3 +46,28 @@ for link in links:
     for card in cards:
         f.write(card.get_attribute('href') + '\n')
         print(card.get_attribute('href'))
+
+
+chrome_options = Options()
+# неробот
+chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+chrome_options.add_experimental_option("useAutomationExtension", False)
+# chrome_options.add_argument("--headless")
+driver = webdriver.Chrome(options=chrome_options)
+cookie_allow(driver)
+links_file = open("links_for_link_pars.txt", 'r')
+links = set(links_file.readlines())
+links_len = len(links)
+for link in links:
+    print(links_len)
+    links_len -= 1
+    try:
+        do_pars(driver, link)
+    except Exception as e:
+        print("Ошибка")
+        f = open("links_gen_bags.txt", 'a')
+        f.write("\n\nНачало бага\n")
+        f.write(link)
+        f.write(f"exception {e}")
+        f.write(f"\n\n")
+        f.close()

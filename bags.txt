@@ -1,32 +1,29 @@
 
 
 Начало бага
-link:   https://www.nike.com/t/air-jordan-6-retro-shoes-9VsdCQ/CT8529-141https://www.nike.com/t/air-jordan-2-retro-low-mens-shoes-LVlsNr/DV9956-118
-exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".css-1rayx7p"}
+Размеры не спарсились почему-то, проверь артикул   DV2131-011exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
   (Session info: chrome=111.0.5563.147)
 Stacktrace:
 Backtrace:
-	(No symbol) [0x00A0DCE3]
-	(No symbol) [0x009A39D1]
-	(No symbol) [0x008B4DA8]
-	(No symbol) [0x008E019F]
-	(No symbol) [0x008E03AB]
-	(No symbol) [0x008D87D1]
-	(No symbol) [0x008FAF14]
-	(No symbol) [0x008D8726]
-	(No symbol) [0x008FB224]
-	(No symbol) [0x0090D57C]
-	(No symbol) [0x008FACC6]
-	(No symbol) [0x008D6F68]
-	(No symbol) [0x008D80CD]
-	GetHandleVerifier [0x00C83832+2506274]
-	GetHandleVerifier [0x00CB9794+2727300]
-	GetHandleVerifier [0x00CBE36C+2746716]
-	GetHandleVerifier [0x00AB6690+617600]
-	(No symbol) [0x009AC712]
-	(No symbol) [0x009B1FF8]
-	(No symbol) [0x009B20DB]
-	(No symbol) [0x009BC63B]
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
 	BaseThreadInitThunk [0x75F500F9+25]
 	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
 	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
@@ -35,32 +32,29 @@ Backtrace:
 
 
 Начало бага
-link:   https://www.nike.com/t/digital-gift-card-emailed-in-approximately-2-hours-B9Mv2K/GIFTCARD-D7266
-exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".product-price"}
+Размеры не спарсились почему-то, проверь артикул   DV2131-010exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
   (Session info: chrome=111.0.5563.147)
 Stacktrace:
 Backtrace:
-	(No symbol) [0x00A0DCE3]
-	(No symbol) [0x009A39D1]
-	(No symbol) [0x008B4DA8]
-	(No symbol) [0x008E019F]
-	(No symbol) [0x008E03AB]
-	(No symbol) [0x008D87D1]
-	(No symbol) [0x008FAF14]
-	(No symbol) [0x008D8726]
-	(No symbol) [0x008FB224]
-	(No symbol) [0x0090D57C]
-	(No symbol) [0x008FACC6]
-	(No symbol) [0x008D6F68]
-	(No symbol) [0x008D80CD]
-	GetHandleVerifier [0x00C83832+2506274]
-	GetHandleVerifier [0x00CB9794+2727300]
-	GetHandleVerifier [0x00CBE36C+2746716]
-	GetHandleVerifier [0x00AB6690+617600]
-	(No symbol) [0x009AC712]
-	(No symbol) [0x009B1FF8]
-	(No symbol) [0x009B20DB]
-	(No symbol) [0x009BC63B]
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
 	BaseThreadInitThunk [0x75F500F9+25]
 	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
 	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
@@ -69,30 +63,4282 @@ Backtrace:
 
 
 Начало бага
-link:   https://www.nike.com/t/gift-card-RpyEVO/GIFTCARD-7434
-exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".headline-5.pb1-sm.d-sm-ib"}
+Размеры не спарсились почему-то, проверь артикул   9B0388-I00exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
   (Session info: chrome=111.0.5563.147)
 Stacktrace:
 Backtrace:
-	(No symbol) [0x00A0DCE3]
-	(No symbol) [0x009A39D1]
-	(No symbol) [0x008B4DA8]
-	(No symbol) [0x008E019F]
-	(No symbol) [0x008E03AB]
-	(No symbol) [0x0090EE62]
-	(No symbol) [0x008FAF14]
-	(No symbol) [0x0090D57C]
-	(No symbol) [0x008FACC6]
-	(No symbol) [0x008D6F68]
-	(No symbol) [0x008D80CD]
-	GetHandleVerifier [0x00C83832+2506274]
-	GetHandleVerifier [0x00CB9794+2727300]
-	GetHandleVerifier [0x00CBE36C+2746716]
-	GetHandleVerifier [0x00AB6690+617600]
-	(No symbol) [0x009AC712]
-	(No symbol) [0x009B1FF8]
-	(No symbol) [0x009B20DB]
-	(No symbol) [0x009BC63B]
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   9B0388-KG5exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   9B0388-GK9exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   DJ2028-010exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   N1002456-113exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   N1002456-926exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   DV2131-011exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   DV2131-010exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   9B0388-I00exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   9B0388-KG5exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   9B0388-GK9exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   DJ2028-010exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   N1002456-113exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   N1002456-926exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   DV2131-011exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   DV2131-010exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   9B0388-I00exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   9B0388-KG5exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   9B0388-GK9exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   DJ2028-010exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   N1002456-113exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+Размеры не спарсились почему-то, проверь артикул   N1002456-926exception Message: no such element: Unable to locate element: {"method":"css selector","selector":".mt5-sm.mb3-sm.body-2"}
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0068019F]
+	(No symbol) [0x006803AB]
+	(No symbol) [0x006AEE62]
+	(No symbol) [0x0069AF14]
+	(No symbol) [0x006AD57C]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-acg-goat-rocks-mens-long-sleeve-top-v8MDcG/DO9269-309
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/little-kids-elite-crew-socks-3-pairs-1vX8j4/GN0767-E6Z
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/ready-mens-dri-fit-short-sleeve-fitness-top-bc8lMz/DV9815-416
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/florida-state-menslong-sleeve-t-shirt-XrJgBV/DZ3870-010
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/pro-365-womens-mid-rise-cropped-mesh-panel-leggings-rk6HW4/CZ9803-015
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-essentials-womens-jersey-tank-plus-size-T0DqTJ/DO5037-379
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/us-velocity-legend-mens-t-shirt-vPCqS7/M21793HPDGH-USA
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-legend-logo-san-francisco-giants-mens-t-shirt-rdWtWF/NKGK00AGIA-M30
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-logo-legend-tampa-bay-rays-mens-t-shirt-TXfkcn/N9224EYRAY-M30
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/team-engineered-minnesota-twins-mens-t-shirt-kfRXjs/N19906GTIS-02K
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/air-max-dawn-mens-shoes-Rg69GM/DQ3991-100
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-phoenix-fleece-womens-high-waisted-oversized-sweatpants-VTdgxz/DQ5887-611
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/los-angeles-dodgers-city-connect-clayton-kershaw-mens-t-shirt-shW66D/N1994EWLD3-M9A
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/local-phrase-essential-houston-texans-mens-t-shirt-g1bJrm/N19941L8V-0ZJ
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/colorado-heritage86hat-XqVPB6/C11127C148-COL
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/st-louis-cardinals-womens-replica-baseball-jersey-5DgmWp/T773SCCASCN-XVA
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-monogram-backpack-backpack-XLPNMV/MA0758-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/phenom-mens-dri-fit-woven-running-pants-TM2j2m/DQ4745-084
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-holiday-mens-long-sleeve-t-shirt-PgzvFD/DV1465-091
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/club-am%C3%A9rica-2022-23-stadium-home-mens-dri-fit-soccer-jersey-jZRzZM/DJ7673-707
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/orlando-pride-stadium-away-womens-dri-fit-soccer-jersey-g6CZ4l/DV6903-101
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/luka-1-next-nature-big-kids-basketball-shoes-WCDB8L/DV1516-074
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-dri-fit-sport-breakfast-club-mens-graphic-fleece-pullover-hoodie-TWx7qF/DV9781-091
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/baseball-san-francisco-giants-mens-3-4-sleeve-pullover-hoodie-Nwr43b/NKMT00GNGIA-02S
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/hydralock-fusion-womens-cheeky-kick-short-p3kpP8/NESSC190-001
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-essentials-womens-long-sleeve-top-qj57dw/DM6232-100
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/liverpool-fc-strike-elite-mens-dri-fit-adv-soccer-drill-top-H66WSF/DB0195-376
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-womens-tank-plus-size-brJjqt/DX0602-011
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/little-kids-dream-chaser-hooded-dress-N6rN0g/36J905-GAK
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-uv-one-luxe-womens-standard-fit-long-sleeve-top-plus-size-Vnf2Cq/DJ6745-630
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-toddler-tank-and-shorts-set-M0N63B/75B479-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/luka-don%C4%8Di%C4%87-mavericks-icon-edition-big-kids-nba-swingman-jersey-0b989Q/9Z2B7BZ2P-DL8
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/usc-mensjoggers-PHB0F9/DR4395-236
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/mens-5-swim-volley-shorts-KRLQ39/NESSB489-480
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/angel-city-fc-2022-23-stadium-home-big-kids-dri-fit-soccer-jersey-3vCf6w/DV4314-011
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/alpha-huarache-8-pro-lacrosse-cleats-fQttsB/CW4439-116
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-womens-oversized-fleece-pullover-hoodie-DsLwT4/FD0892-291
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-swoosh-fly-womens-high-support-non-padded-adjustable-sports-bra-4wDL7v/DR0313-010
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-mens-max90-t-shirt-F8wX5X/FB9038-333
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/brooklyn-fleece-plaid-pullover-hoodie-little-kids-hoodie-lmQLHB/85B920-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-get-fit-womens-graphic-crewneck-sweatshirt-nSq5fk/DQ5542-334
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-big-kids-boys-fleece-pants-TZW5fX/DQ8827-063
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/team-engineered-san-francisco-giants-mens-t-shirt-Dl3vZt/N19989LGIA-02K
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-perform-tampa-bay-buccaneers-mens-pullover-hoodie-zWx83m/NKZJ6DL8B-0YQ
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/air-jordan-1-low-big-kids-shoes-kAvvx4/553560-066
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/england-strike-big-kids-dri-fit-knit-soccer-pants-z3tgXH/DM9596-492
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/las-vegas-aces-womens-dri-fit-wnba-practice-shorts-B5cTch/DD9269-010
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/virginia-mens-t-shirt-zXkQD0/DD8216-419
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/phantom-gx-pro-fg-firm-ground-soccer-cleats-jqVxJw/DD9463-446
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/monaco-denver-broncos-womens-full-zip-hoodie-QXtGgb/NKZP079K8W-0ZA
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-big-kids-boys-full-zip-jacket-fWcN3j/95B402-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/ksa-graphic-tee-little-kids-t-shirt-VvKT7F/86K626-R7O
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-mini-me-printed-fleece-crew-set-baby-12-24m-set-5gxBRG/15C112-P3R
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/los-angeles-dodgers-cody-bellinger-mens-replica-baseball-jersey-6PVhvC/T770XV2-BD4
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/team-tech-minnesota-twins-womens-racerback-tank-top-XGqz8X/NKGU036NTIS-03R
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/active-joy-shorts-set-toddler-set-fBcLRN/76K471-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-club-fleece-pullover-set-baby-12-24m-set-pch8qb/66K268-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/retro-texas-mens-fleece-hoodie-1k2pVt/DR3457-802
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/chelsea-fc-2022-23-stadium-home-big-kids-dri-fit-soccer-jersey-X6fGx9/DJ7848-496
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-uv-run-division-miler-mens-short-sleeve-graphic-running-top-pgCcsQ/DV9263-379
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-big-kids-sign-off-t-shirt-TCNHWS/45B852-EBU
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-everyday-crew-socks-3-pairs-NMfN9v/DX9632-010
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-right-mix-washington-nationals-womens-high-neck-tank-top-x6q3dc/NKMS036NWTL-02Y
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/los-angeles-lakers-courtside-statement-edition-mens-jordan-nba-full-zip-jacket-fv0HDl/DN4715-010
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/air-max-excee-mens-shoes-vl97pm/DQ3993-002
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/new-york-yankees-blank-mens-replica-baseball-jersey-7gsDNw/T770XVH-NY6
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/ready-mens-dri-fit-short-sleeve-fitness-top-bc8lMz/DV9815-416
+exception 'NoneType' object has no attribute 'find_element'
+
+
+
+Начало бага
+link:   https://www.nike.com/t/florida-state-menslong-sleeve-t-shirt-XrJgBV/DZ3870-010
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/pro-365-womens-mid-rise-cropped-mesh-panel-leggings-rk6HW4/CZ9803-015
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-essentials-womens-jersey-tank-plus-size-T0DqTJ/DO5037-379
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/us-velocity-legend-mens-t-shirt-vPCqS7/M21793HPDGH-USA
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-legend-logo-san-francisco-giants-mens-t-shirt-rdWtWF/NKGK00AGIA-M30
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-logo-legend-tampa-bay-rays-mens-t-shirt-TXfkcn/N9224EYRAY-M30
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/team-engineered-minnesota-twins-mens-t-shirt-kfRXjs/N19906GTIS-02K
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/air-max-dawn-mens-shoes-Rg69GM/DQ3991-100
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-phoenix-fleece-womens-high-waisted-oversized-sweatpants-VTdgxz/DQ5887-611
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/los-angeles-dodgers-city-connect-clayton-kershaw-mens-t-shirt-shW66D/N1994EWLD3-M9A
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/local-phrase-essential-houston-texans-mens-t-shirt-g1bJrm/N19941L8V-0ZJ
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/colorado-heritage86hat-XqVPB6/C11127C148-COL
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/st-louis-cardinals-womens-replica-baseball-jersey-5DgmWp/T773SCCASCN-XVA
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-monogram-backpack-backpack-XLPNMV/MA0758-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/phenom-mens-dri-fit-woven-running-pants-TM2j2m/DQ4745-084
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-holiday-mens-long-sleeve-t-shirt-PgzvFD/DV1465-091
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/club-am%C3%A9rica-2022-23-stadium-home-mens-dri-fit-soccer-jersey-jZRzZM/DJ7673-707
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/orlando-pride-stadium-away-womens-dri-fit-soccer-jersey-g6CZ4l/DV6903-101
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/luka-1-next-nature-big-kids-basketball-shoes-WCDB8L/DV1516-074
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-dri-fit-sport-breakfast-club-mens-graphic-fleece-pullover-hoodie-TWx7qF/DV9781-091
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/baseball-san-francisco-giants-mens-3-4-sleeve-pullover-hoodie-Nwr43b/NKMT00GNGIA-02S
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/hydralock-fusion-womens-cheeky-kick-short-p3kpP8/NESSC190-001
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-essentials-womens-long-sleeve-top-qj57dw/DM6232-100
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/liverpool-fc-strike-elite-mens-dri-fit-adv-soccer-drill-top-H66WSF/DB0195-376
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-womens-tank-plus-size-brJjqt/DX0602-011
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/little-kids-dream-chaser-hooded-dress-N6rN0g/36J905-GAK
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-uv-one-luxe-womens-standard-fit-long-sleeve-top-plus-size-Vnf2Cq/DJ6745-630
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-toddler-tank-and-shorts-set-M0N63B/75B479-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/luka-don%C4%8Di%C4%87-mavericks-icon-edition-big-kids-nba-swingman-jersey-0b989Q/9Z2B7BZ2P-DL8
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/usc-mensjoggers-PHB0F9/DR4395-236
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/mens-5-swim-volley-shorts-KRLQ39/NESSB489-480
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/angel-city-fc-2022-23-stadium-home-big-kids-dri-fit-soccer-jersey-3vCf6w/DV4314-011
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/alpha-huarache-8-pro-lacrosse-cleats-fQttsB/CW4439-116
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-womens-oversized-fleece-pullover-hoodie-DsLwT4/FD0892-291
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-swoosh-fly-womens-high-support-non-padded-adjustable-sports-bra-4wDL7v/DR0313-010
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-mens-max90-t-shirt-F8wX5X/FB9038-333
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/brooklyn-fleece-plaid-pullover-hoodie-little-kids-hoodie-lmQLHB/85B920-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-get-fit-womens-graphic-crewneck-sweatshirt-nSq5fk/DQ5542-334
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/sportswear-big-kids-boys-fleece-pants-TZW5fX/DQ8827-063
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/team-engineered-san-francisco-giants-mens-t-shirt-Dl3vZt/N19989LGIA-02K
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/dri-fit-perform-tampa-bay-buccaneers-mens-pullover-hoodie-zWx83m/NKZJ6DL8B-0YQ
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/air-jordan-1-low-big-kids-shoes-kAvvx4/553560-066
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/england-strike-big-kids-dri-fit-knit-soccer-pants-z3tgXH/DM9596-492
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/las-vegas-aces-womens-dri-fit-wnba-practice-shorts-B5cTch/DD9269-010
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/virginia-mens-t-shirt-zXkQD0/DD8216-419
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/phantom-gx-pro-fg-firm-ground-soccer-cleats-jqVxJw/DD9463-446
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/monaco-denver-broncos-womens-full-zip-hoodie-QXtGgb/NKZP079K8W-0ZA
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-big-kids-boys-full-zip-jacket-fWcN3j/95B402-023
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/ksa-graphic-tee-little-kids-t-shirt-VvKT7F/86K626-R7O
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
+	BaseThreadInitThunk [0x75F500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
+
+
+
+
+Начало бага
+link:   https://www.nike.com/t/jordan-mini-me-printed-fleece-crew-set-baby-12-24m-set-5gxBRG/15C112-P3R
+exception Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x007ADCE3]
+	(No symbol) [0x007439D1]
+	(No symbol) [0x00654DA8]
+	(No symbol) [0x0063D0D3]
+	(No symbol) [0x0069EA8B]
+	(No symbol) [0x006AD093]
+	(No symbol) [0x0069ACC6]
+	(No symbol) [0x00676F68]
+	(No symbol) [0x006780CD]
+	GetHandleVerifier [0x00A23832+2506274]
+	GetHandleVerifier [0x00A59794+2727300]
+	GetHandleVerifier [0x00A5E36C+2746716]
+	GetHandleVerifier [0x00856690+617600]
+	(No symbol) [0x0074C712]
+	(No symbol) [0x00751FF8]
+	(No symbol) [0x007520DB]
+	(No symbol) [0x0075C63B]
 	BaseThreadInitThunk [0x75F500F9+25]
 	RtlGetAppContainerNamedObjectPath [0x77587BBE+286]
 	RtlGetAppContainerNamedObjectPath [0x77587B8E+238]
