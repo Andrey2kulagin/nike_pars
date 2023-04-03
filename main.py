@@ -7,12 +7,25 @@ from datetime import datetime
 import os
 
 
-def get_product_row(card_data, last_row):
+def counter():
+    count = 36111 # значение счётчика
+
+    def inner():
+        nonlocal count  # указываем, что переменная count находится во внешней области видимости
+        count += 1  # увеличиваем значение счётчика на 1
+        return count  # возвращаем текущее значение счётчика
+
+    return inner
+
+
+my_counter = counter()
+
+
+def get_product_row(card_data, product_number):
     data_row = []
     data_row.append(card_data['model_sub_name'])
     data_row.append("Товар")
-    product_number = str(last_row)
-    data_row.append(product_number)
+    data_row.append(str(product_number))
     data_row.append(card_data["model_main_name"])
     photo_string = link_array_to_string(card_data["photos"])
     data_row.append(photo_string)
@@ -39,10 +52,10 @@ def write_excel_row(data_row, last_row, worksheet):
         worksheet.cell(row=last_row + 1, column=col_idx, value=cell_value)
 
 
-def get_size_color_row(size, last_row, main_product_num, article, photos):
+def get_size_color_row(size, main_product_num, article, photos):
     data_row = [""]
     data_row.append("Модификация")
-    data_row.append(str(last_row))
+    data_row.append(str(my_counter()))
     data_row.append("")
     photo_string = link_array_to_string(photos)
     data_row.append(photo_string)
@@ -61,11 +74,11 @@ def is_sizes_empty(cards_data):
     return card_len == 0
 
 
-def get_product_row_without_sizes(card_data, last_row):
+def get_product_row_without_sizes(card_data):
     data_row = []
     data_row.append(card_data['model_sub_name'])
     data_row.append("Товар")
-    product_number = str(last_row)
+    product_number = str(my_counter())
     data_row.append(product_number)
     data_row.append(card_data["model_main_name"])
     photo_string = link_array_to_string(card_data["photos"])
@@ -78,10 +91,10 @@ def get_product_row_without_sizes(card_data, last_row):
     return data_row
 
 
-def get_article_row(last_row, main_product_num, card_data):
+def get_article_row(main_product_num, card_data):
     data_row = [""]
     data_row.append("Модификация")
-    data_row.append(str(last_row))
+    data_row.append(str(my_counter()))
     data_row.append("")
     photo_string = link_array_to_string(card_data["photos"])
     data_row.append(photo_string)
@@ -102,15 +115,15 @@ def write_to_file(cards_data, filename):
     if not is_sizes_empty(cards_data):
         for card_data in cards_data:
             if not is_product_add:
-                data_row = get_product_row(cards_data[card_data], last_row)
+                main_product_num = str(my_counter())
+                data_row = get_product_row(cards_data[card_data], main_product_num)
                 write_excel_row(data_row, last_row, worksheet)
-                main_product_num = last_row
                 last_row += 1
                 is_product_add = True
             if len(cards_data[card_data]["size"]):
                 # обработка всех размеров и их запись
                 for size in cards_data[card_data]["size"]:
-                    data_row = get_size_color_row(size, last_row, main_product_num, cards_data[card_data]["article"],
+                    data_row = get_size_color_row(size, main_product_num, cards_data[card_data]["article"],
                                                   cards_data[card_data]["photos"])
                     write_excel_row(data_row, last_row, worksheet)
                     print("записана строка:", last_row)
@@ -119,13 +132,13 @@ def write_to_file(cards_data, filename):
     else:
         for card_data in cards_data:
             if not is_product_add:
-                data_row = get_product_row_without_sizes(cards_data[card_data], last_row)
+                data_row = get_product_row_without_sizes(cards_data[card_data])
                 write_excel_row(data_row, last_row, worksheet)
                 main_product_num = last_row
                 last_row += 1
                 is_product_add = True
             # добавляем артикул с фотками и т.д.
-            data_row = get_article_row(last_row, main_product_num, cards_data[card_data])
+            data_row = get_article_row(main_product_num, cards_data[card_data])
             write_excel_row(data_row, last_row, worksheet)
             print("записана строка:", last_row)
             last_row += 1
@@ -164,7 +177,6 @@ def get_card_color_info(driver, data, is_sold_out):
                                               ".product-price").text[1:]
     data["price"] = price
     data["size"] = []
-    product_number = 0
     if not is_sold_out and not is_coming_soon(driver):
         try:
             sizes_block = driver.find_element(By.CSS_SELECTOR, ".mt5-sm.mb3-sm.body-2")
@@ -262,7 +274,7 @@ chrome_options.add_experimental_option("useAutomationExtension", False)
 driver = webdriver.Chrome(options=chrome_options)
 cookie_allow(driver)
 excel_filename_mask = "cards_data"
-files_count = 0
+files_count = 115
 filename = gen_filename(excel_filename_mask, files_count)
 create_new_excel(filename)
 max_str_count = 300
