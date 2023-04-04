@@ -8,7 +8,7 @@ import os
 
 
 def counter():
-    count = 0  # значение счётчика
+    count = 1374  # значение счётчика
 
     def inner():
         nonlocal count  # указываем, что переменная count находится во внешней области видимости
@@ -274,11 +274,11 @@ chrome_options.add_experimental_option("useAutomationExtension", False)
 driver = webdriver.Chrome(options=chrome_options)
 cookie_allow(driver)
 excel_filename_mask = "cards_data"
-files_count = 0
+files_count = 4
 filename = gen_filename(excel_filename_mask, files_count)
 create_new_excel(filename)
 max_str_count = 300
-with open("links1.txt", 'r', encoding='utf-8') as card_links:
+with open("links1_with_duplicate.txt", 'r', encoding='utf-8') as card_links:
     for card_link in card_links:
         print(card_link)
         card_data = {}
