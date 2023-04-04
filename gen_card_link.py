@@ -42,7 +42,7 @@ def do_pars(driver, link):
         last_height = new_height
     cards = driver.find_elements(By.CLASS_NAME, "product-card__img-link-overlay")
     print(len(cards))
-    f = open("links.txt", 'a', encoding='utf-8')
+    f = open("links1_with_duplicate.txt", 'a', encoding='utf-8')
     for card in cards:
         f.write(card.get_attribute('href') + '\n')
         print(card.get_attribute('href'))
@@ -55,7 +55,7 @@ chrome_options.add_experimental_option("useAutomationExtension", False)
 # chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(options=chrome_options)
 cookie_allow(driver)
-links_file = open("links_for_link_pars.txt", 'r')
+links_file = open("links_for_link_pars1.txt", 'r')
 links = set(links_file.readlines())
 links_len = len(links)
 for link in links:
